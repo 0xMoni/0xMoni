@@ -1,14 +1,13 @@
-# hey, i'm moni
+# Hey, I'm Moni
 
-full-stack dev. 2nd year CS @ CMRIT Bangalore.  
-i build mobile and web apps — and sometimes they even have paying users.
+College student who can build mobile and web apps — and sometimes they even have paying users.
 
 shipping code & shooting hoops.
 
 ## what i work with
 
-**daily drivers:** TypeScript, React Native (Expo), Next.js, Firebase, Node.js  
-**also use:** Python, Supabase, MongoDB, Tailwind CSS, Vercel  
+**daily drivers:** TypeScript, React Native (Expo), Next.js, Firebase, Node.js, Python
+**also use:** MySQL, Supabase, MongoDB, Tailwind CSS, Vercel  
 **AI stuff:** Gemini API, YOLO/Roboflow, OpenCV, MediaPipe  
 **tools:** Git, Figma, Claude Code, Cursor
 
@@ -25,11 +24,6 @@ shipping code & shooting hoops.
 
 **CryptoPath** — crypto education for beginners who are overwhelmed by jargon. bite-sized learning cards, paper trading simulator with real prices, and a jargon translator. no selling, no shilling, just learning. (Next.js, TypeScript, Tailwind)
 
-## currently
-
-- looking for internships where i can ship real stuff
-- playing basketball badly but consistently
-- overengineering side projects at 2am
 
 ## stats
 
