@@ -73,4 +73,4 @@ Features:
 
 ---
 
-> I enjoy building products that people actually use, whether that's helping students track attendance, making emergency information accessible, or simplifying crypto education.
+> Most of my projects start because I get annoyed by a problem and decide to build the solution.
