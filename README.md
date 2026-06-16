@@ -34,12 +34,12 @@ Git · GitHub · Figma · Cursor · Claude Code · Vercel
 
 ## 📌 Projects
 
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| **UniTrack** | Attendance tracker with Razorpay integration and **20+ paying users** | React Native, Expo, Firebase, Razorpay, Gemini API | 🌐 [Live](https://unitrack-web.vercel.app) · 💻 [Code](https://github.com/0xMoni/UniTrack-app) |
-| **goIRL** | Discover hackathons and tech events with an interactive 3D map | Next.js 16, Supabase, MapLibre GL, Vercel | 🌐 [Live](https://goirl-tau.vercel.app) · 💻 [Code](https://github.com/0xMoni/goIRL) |
-| **SahayakAI** | AI-powered crisis response platform supporting 12 Indian languages with sub-2s responses | Next.js 15, Gemini 2.5 Flash, Firebase | 🌐 [Live](https://sahayakai-one.vercel.app) |
-| **LitterLens** | Detects garbage from satellite imagery and notifies local authorities in under 30 seconds | React Native, YOLO/Roboflow, Firebase | 💻 [Code](https://github.com/0xMoni/LitterLens) |
+| Project | Description | Stack & Links |
+|---------|-------------|---------------|
+| **UniTrack** | Attendance tracker with Razorpay integration and **20+ paying users** | React Native · Firebase · Gemini API<br>🌐 [Live](https://unitrack-web.vercel.app) · 💻 [Code](https://github.com/0xMoni/UniTrack-app) |
+| **goIRL** | Discover hackathons and tech events with an interactive 3D map | Next.js · Supabase · MapLibre GL<br>🌐 [Live](https://goirl-tau.vercel.app) · 💻 [Code](https://github.com/0xMoni/goIRL) |
+| **SahayakAI** | AI-powered crisis response platform supporting **12 Indian languages** with sub-2s responses | Next.js · Gemini 2.5 Flash · Firebase<br>🌐 [Live](https://sahayakai-one.vercel.app) |
+| **LitterLens** | Detects garbage from satellite imagery and notifies local authorities in **under 30 seconds** | React Native · YOLO · Firebase<br>💻 [Code](https://github.com/0xMoni/LitterLens) |
 
 ---
 
