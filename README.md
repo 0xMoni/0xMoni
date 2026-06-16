@@ -13,56 +13,22 @@ College student building mobile and web apps that solve real problems — some o
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-### Daily Drivers
-- TypeScript
-- React Native (Expo)
-- Next.js
-- Firebase
-- Node.js
-- Python
+**Languages**
+TypeScript · JavaScript · Python
 
-### Also Use
-- MySQL
-- Supabase
-- MongoDB
-- Tailwind CSS
-- Vercel
+**Frontend**
+React Native (Expo) · Next.js · Tailwind CSS
 
-### AI & Computer Vision
-- Gemini API
-- YOLO / Roboflow
-- OpenCV
-- MediaPipe
+**Backend & Database**
+Node.js · Firebase · Supabase · MySQL · MongoDB
 
-### 🛠 Tools
+**AI**
+Gemini API · YOLO · OpenCV · MediaPipe
 
-**Development**
-- Git & GitHub
-- VS Code
-- Cursor
-- Claude Code
-
-**Design**
-- Figma
-
-**Testing & APIs**
-- Postman
-- Chrome DevTools
-
-**Deployment**
-- Vercel
-- Firebase Console
-- Supabase Studio
-
-**Mobile**
-- Expo
-- Android Studio
-
-**Package Managers**
-- npm
-- pnpm
+**Tools**
+Git · GitHub · Figma · Cursor · Claude Code · Vercel
 
 ---
 
