@@ -15,19 +15,19 @@ College student building mobile and web apps that solve real problems — some o
 
 ## 🛠 Tech Stack
 
-**Languages**
+**Languages:**
 TypeScript · JavaScript · Python
 
-**Frontend**
+**Frontend:**
 React Native (Expo) · Next.js · Tailwind CSS
 
-**Backend & Database**
+**Backend & Database:**
 Node.js · Firebase · Supabase · MySQL · MongoDB
 
-**AI**
+**AI:**
 Gemini API · YOLO · OpenCV · MediaPipe
 
-**Tools**
+**Tools:**
 Git · GitHub · Figma · Cursor · Claude Code · Vercel
 
 ---
