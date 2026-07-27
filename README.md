@@ -9,7 +9,6 @@ College student building mobile and web apps that solve real problems — some o
 - 🚀 Built 4+ production-ready apps
 - 💳 20+ paying users on UniTrack
 - 🌍 Built apps used by students across colleges
-- 🤖 Experience integrating Gemini API and Computer Vision models
 
 ---
 
