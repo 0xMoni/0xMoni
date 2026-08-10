@@ -42,7 +42,6 @@ Git · GitHub Actions · Docker · Vercel · Figma · Postman · Claude Code
 | **Quarry** | A SQL query engine written from scratch — hand-written lexer, recursive-descent parser, logical planner and vectorized executor over columnar storage. **Median 5x faster than SQLite** on 1M rows | Python · NumPy<br>💻 [Code](https://github.com/0xMoni/quarry) |
 | **UniTrack** | Attendance SaaS with Razorpay billing, webhook verification and **20+ paying users** | React Native · Firebase · Gemini API<br>🌐 [Live](https://unitrack-web.vercel.app) · 💻 [Code](https://github.com/0xMoni/UniTrack-app) |
 | **goIRL** | Discover hackathons and tech events on an interactive 3D map, aggregated from MLH, Lu.ma and Devfolio | Next.js · Supabase · MapLibre GL<br>🌐 [Live](https://goirl-tau.vercel.app) · 💻 [Code](https://github.com/0xMoni/goIRL) |
-| **SahayakAI** | AI-powered crisis response platform supporting **12 Indian languages** with sub-2s responses | Next.js · Gemini 2.5 Flash · Firebase<br>🌐 [Live](https://sahayakai-one.vercel.app) |
 | **LitterLens** | Detects garbage from satellite imagery and notifies local authorities in **under 30 seconds** | React Native · YOLO · Firebase<br>💻 [Code](https://github.com/0xMoni/LitterLens) |
 
 ---
