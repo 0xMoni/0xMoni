@@ -82,7 +82,7 @@ A **13.8x** improvement from changing how strings are stored, not how grouping w
 ## 🌐 Connect
 
 - 🌍 **Portfolio:** https://monikumari.vercel.app
-- 💼 **LinkedIn:** https://linkedin.com/in/moni-kumari
+- 💼 **LinkedIn:** https://linkedin.com/in/moni-kumariii
 - 🧩 **LeetCode:** https://leetcode.com/u/monii_07
 - 🐦 **Twitter/X:** https://twitter.com/monii_k07
 
