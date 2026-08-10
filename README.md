@@ -70,25 +70,12 @@ A **13.8x** improvement from changing how strings are stored, not how grouping w
 
 ---
 
-## 🛠 Currently Building
-
-### CryptoPath
-
-Making crypto easier for beginners.
-
-Features:
-- 📚 Bite-sized learning cards
-- 📈 Paper trading with live market prices
-- 💬 Jargon translator
-- 🚫 No hype, no shilling — just learning
-
-**Stack:** Next.js · TypeScript · Tailwind CSS
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMoni&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xMoni&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xMoni&theme=github_dark)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xMoni&theme=github_dark)
 
 ---
 
