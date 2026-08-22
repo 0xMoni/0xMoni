@@ -9,7 +9,6 @@ Third-year CS student building across the stack — and sometimes below it. Some
 - 💳 **20+ users and paying subscribers** on UniTrack, with live Razorpay billing
 - ⚡ Built a query engine **5x faster than SQLite** on 1M-row analytical queries
 - 🚀 5+ production apps shipped, deployed, and in real use
-- 🌍 Apps used by students across colleges
 
 ---
 
@@ -72,10 +71,7 @@ A **13.8x** improvement from changing how strings are stored, not how grouping w
 
 ## 📊 GitHub Stats
 
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xMoni&theme=github_dark)
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xMoni&theme=github_dark)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xMoni&theme=github_dark)
 
 ---
 
