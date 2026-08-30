@@ -45,41 +45,10 @@ Git · GitHub Actions · Docker · Vercel · Figma · Postman · Claude Code
 
 ---
 
-## ⚡ Deep Dive: Quarry
-
-The first working version was **2.5x slower than SQLite** at `GROUP BY`, despite being 6x faster at everything else. Profiling found one line:
-
-```
-np.unique on 1,000,000 object strings : 655.7 ms
-np.unique on 1,000,000 int64 values   :  21.2 ms
-```
-
-Grouping by a string column meant sorting a million Python string *objects* — every comparison round-tripping through the interpreter.
-
-The fix was **dictionary encoding**, the same technique Parquet and Arrow use: store text as `int32` codes plus a dictionary of distinct values.
-
-| | before | after |
-|---|---:|---:|
-| `GROUP BY` 1 key | 731 ms | **53 ms** |
-| median vs SQLite | 0.4x | **5.0x** |
-
-A **13.8x** improvement from changing how strings are stored, not how grouping works. All 68 tests — including 17 differential tests against SQLite — still passed afterwards, which is what made the rewrite safe to attempt.
-
-[**Read the full writeup →**](https://github.com/0xMoni/quarry)
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xMoni&theme=github_dark)
-
----
-
 ## 🌐 Connect
 
 - 🌍 **Portfolio:** https://monikumari.vercel.app
 - 💼 **LinkedIn:** https://linkedin.com/in/moni-kumariii
-- 🧩 **LeetCode:** https://leetcode.com/u/monii_07
 - 🐦 **Twitter/X:** https://twitter.com/monii_k07
 
 ---
